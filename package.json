@@ -18,5 +18,8 @@
   },
   "exports": {
     "prettier": "./src/prettier.config.mjs"
+  },
+  "repository": {
+    "url": "https://github.com/sprymann-cinema/core"
   }
 }
